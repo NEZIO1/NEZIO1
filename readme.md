@@ -150,7 +150,7 @@ Atualmente trabalho com tecnologias como **Python**, **JavaScript** e **React**,
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/euvhmac/euvhmac/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/NEZIO1/NEZIO1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
