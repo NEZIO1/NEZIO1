@@ -145,7 +145,6 @@ Atualmente trabalho com tecnologias como **Python**, **JavaScript** e **React**,
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEZIO1&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
---
 
 ## 🐍 Contribution Snake
 
