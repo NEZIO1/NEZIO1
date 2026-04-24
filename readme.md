@@ -145,6 +145,8 @@ Atualmente trabalho com tecnologias como **Python**, **JavaScript** e **React**,
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEZIO1&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<br clear="left"/>
+<br/>
 
 ## 🐍 Contribution Snake
 
@@ -162,7 +164,7 @@ Atualmente trabalho com tecnologias como **Python**, **JavaScript** e **React**,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nezio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnezio.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NEZIO1)
-[![Instagram](https://img.shields.io/badge/insta-%23444444?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermenezio)
+[![Instagram](https://img.shields.io/badge/Instagram-%23444444?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermenezio)
 
 <p>
   <i>Aberto a oportunidades </i>
