@@ -167,7 +167,7 @@ Atualmente trabalho com tecnologias como **Python**, **JavaScript** e **React**,
 [![Instagram](https://img.shields.io/badge/Instagram-%23444444?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermenezio)
 
 <p>
-  <i>Aberto a oportunidades </i>
+  <i>Aberto a oportunidades. </i>
 </p>
 
 </div>
