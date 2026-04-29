@@ -14,20 +14,20 @@ Atualmente trabalho com tecnologias como **Python**, **JavaScript** e **React**,
 
 
 <p align="left">
-    <a href="https://github.com/NEZIO1?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/NEZIO1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/NEZIO1?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/NEZIO1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
+  <a href="https://github.com/NEZIO1?tab=followers">
+    <img 
+      alt="Seguidores" 
+      title="Me siga no GitHub" 
+      src="https://img.shields.io/github/followers/NEZIO1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&cacheSeconds=0"
+    />
+  </a>
+  <a href="https://github.com/NEZIO1?tab=repositories&sort=stargazers">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/NEZIO1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas&cacheSeconds=0"
+    />
+  </a>
 </p>
 
 ---
